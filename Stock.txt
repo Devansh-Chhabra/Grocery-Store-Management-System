@@ -1,0 +1,42 @@
+PENS                                                                            
+ballpoint pen=12
+ink pen=50
+gel pen=50
+
+NOETBOOKS
+classmate note=150
+classmate short note=150
+classmate packet note=180
+classmate 200pg note=50
+classmate king size=20
+
+WATCH
+sonata=12
+titan=15
+fastrack=20
+zolo=25
+kalanji=15
+casio=5
+bell=14
+
+SHOES
+addidas=17
+puma=25
+nike=24
+vectorx=50
+action=50
+tana=50
+boot=50
+
+COSMETICS
+powder=50
+oil=15
+comb=10
+mirror=25
+park avenue=50
+axe=75
+fog=50
+pins=200
+clips=250
+fair & lovly=80
+fair & handsome=80
