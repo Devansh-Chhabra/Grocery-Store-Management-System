@@ -24,9 +24,7 @@ Ensure you have the following installed on your system:
 * MySQL Connector for Python (pip install mysql-connector-python)
 
 # Setup Instructions
-1) Clone the repository:
-git clone https://github.com/yourusername/grocery-store-management.git
-cd grocery-store-management
+1) Clone the repository
 
 2) Set up the MySQL database:
 * Create a database and table for storing grocery items.
