@@ -38,6 +38,17 @@ python Source Code.py
 * Follow the on-screen prompts to manage grocery items.
 * View the inventory stored in MySQL using SQL queries.
 
+# Demonstration
+
+Here are some images demonstrating the functionality of the Grocery Store Management System:
+
+* Adding a new item to the inventory.
+* Viewing the stored items in MySQL database.
+* Deleting an item from the inventory.
+* Plotting pie charts
+* Viewing the Stock Items
+
+
 # License
 
 This project is licensed under the MIT License.
